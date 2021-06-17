@@ -1,0 +1,140 @@
+{
+  "results": [
+    {
+      "name": {
+        "title": "Ms",
+        "first": "Rosa",
+        "last": "Carroll"
+      },
+      "location": {
+        "street": {
+          "number": 6263,
+          "name": "Lovers Ln"
+        },
+        "city": "Modesto",
+        "state": "New Mexico",
+        "country": "United States",
+        "postcode": 40450,
+        "coordinates": {
+          "latitude": "34.0302",
+          "longitude": "146.8017"
+        },
+        "timezone": {
+          "offset": "-10:00",
+          "description": "Hawaii"
+        }
+      },
+      "email": "rosa.carroll@example.com"
+    },
+    {
+      "name": {
+        "title": "Mr",
+        "first": "Roger",
+        "last": "Patterson"
+      },
+      "location": {
+        "street": {
+          "number": 9498,
+          "name": "Taylor St"
+        },
+        "city": "South Bend",
+        "state": "Nebraska",
+        "country": "United States",
+        "postcode": 71822,
+        "coordinates": {
+          "latitude": "-21.4906",
+          "longitude": "-1.1135"
+        },
+        "timezone": {
+          "offset": "-5:00",
+          "description": "Eastern Time (US & Canada), Bogota, Lima"
+        }
+      },
+      "email": "roger.patterson@example.com"
+    },
+    {
+      "name": {
+        "title": "Miss",
+        "first": "Christine",
+        "last": "Larson"
+      },
+      "location": {
+        "street": {
+          "number": 6159,
+          "name": "W Campbell Ave"
+        },
+        "city": "Boston",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "postcode": 25203,
+        "coordinates": {
+          "latitude": "-47.1513",
+          "longitude": "113.3805"
+        },
+        "timezone": {
+          "offset": "-1:00",
+          "description": "Azores, Cape Verde Islands"
+        }
+      },
+      "email": "christine.larson@example.com"
+    },
+    {
+      "name": {
+        "title": "Miss",
+        "first": "Lily",
+        "last": "Kim"
+      },
+      "location": {
+        "street": {
+          "number": 1044,
+          "name": "W Belt Line Rd"
+        },
+        "city": "Austin",
+        "state": "Mississippi",
+        "country": "United States",
+        "postcode": 13089,
+        "coordinates": {
+          "latitude": "-31.4267",
+          "longitude": "103.8401"
+        },
+        "timezone": {
+          "offset": "+9:30",
+          "description": "Adelaide, Darwin"
+        }
+      },
+      "email": "lily.kim@example.com"
+    },
+    {
+      "name": {
+        "title": "Mr",
+        "first": "Miguel",
+        "last": "Murphy"
+      },
+      "location": {
+        "street": {
+          "number": 9040,
+          "name": "Mcclellan Rd"
+        },
+        "city": "Iowa Park",
+        "state": "Georgia",
+        "country": "United States",
+        "postcode": 81924,
+        "coordinates": {
+          "latitude": "65.5988",
+          "longitude": "-84.7605"
+        },
+        "timezone": {
+          "offset": "+5:00",
+          "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+        }
+      },
+      "email": "miguel.murphy@example.com"
+    }
+  ],
+  "info": {
+    "seed": "63fb4b1ab75a2290",
+    "results": 5,
+    "page": 1,
+    "version": "1.3"
+  }
+}
